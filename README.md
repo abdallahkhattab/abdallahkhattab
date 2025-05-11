@@ -21,14 +21,14 @@ class Profile extends Developer implements BlockchainEnthusiast
 {
     use LaravelExpert, FullStackDeveloper;
     
-    protected $name = 'Your Name';
-    protected $title = 'Senior Laravel Developer';
+    protected $name = 'Abdallah Khattab';
+    protected $title = 'Experienced Laravel Developer';
     protected $experience = [
         'laravel' => 'Advanced',
         'php' => 'Expert',
         'mysql' => 'Advanced',
         'frontend' => 'Proficient',
-        'blockchain' => 'Intermediate',
+        'blockchain' => 'Experienced',
     ];
     
     protected $currentFocus = 'Building scalable Laravel applications';
@@ -91,78 +91,78 @@ class Profile extends Developer implements BlockchainEnthusiast
 <table border="0">
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65" height="65" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65" alt="PHP" />
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="65" height="65" alt="Redis" />
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="65" height="65" alt="Composer" />
       <br>Composer
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
       <br>Git
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" alt="Tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="65" height="65" alt="jQuery" />
       <br>jQuery
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux/WSL" />
       <br>Linux/WSL
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/ios-filled/50/FFFFFF/laravel-new.png" alt="Artisan" width="65" height="65" />
+      <img src="https://img.icons8.com/ios-filled/50/FFFFFF/laravel-new.png" width="65" height="65" alt="Artisan" />
       <br>Artisan
     </td>
- 
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" alt="Ethereum" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" width="65" height="65" alt="Ethereum" />
       <br>Ethereum
     </td>
+ 
   </tr>
 </table>
 
@@ -409,9 +409,9 @@ $expertiseAreas = [
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{yourusername}/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/{abdallahkhattab}/count.svg" alt="Visitor Count" />
   <br>
-  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?style=for-the-badge&color=FF2D20" alt="Last updated" />
+  <img src="https://img.shields.io/github/last-commit/abdallahkhattab/abdallahkhattab?style=for-the-badge&color=FF2D20" alt="Last updated" />
 </div>
 
 
