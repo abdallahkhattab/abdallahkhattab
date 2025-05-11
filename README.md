@@ -128,10 +128,11 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" alt="Tailwind" />
-      <br>Tailwind
-    </td>
+  <td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" alt="Tailwind CSS logo" />
+  <br>Tailwind CSS
+  </td>
+    
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
@@ -154,10 +155,7 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux/WSL" />
       <br>Linux/WSL
     </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/ios-filled/50/FFFFFF/laravel-new.png" width="65" height="65" alt="Artisan" />
-      <br>Artisan
-    </td>
+
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" width="65" height="65" alt="Ethereum" />
       <br>Ethereum
@@ -235,7 +233,23 @@ $expertiseAreas = [
             'Caching Systems',
         ]
     ],
+    [
+        'title' => 'Deployment & Hosting',
+        'skills' => [
+            'cPanel Management',
+            'Database Configuration via cPanel',
+            'Domain Management and DNS Setup',
+            'MySQL Database Setup',
+            'Laravel .env Configuration for Production',
+            'File Permissions and Security',
+            'Composer Dependency Management via SSH',
+            'Error Logs Monitoring and Debugging',
+            'Setting Up Cron Jobs for Laravel',
+            'Setting Up and Managing Subdomains',
+        ]
+    ],
 ];
+
 @endphp
 ```
 
@@ -336,6 +350,10 @@ $expertiseAreas = [
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
+          <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Deployed_via-SSH-4EAA25?style=for-the-badge&logo=openssh&logoColor=white" alt="SSH Deployment Badge"/>
+        </a>
+
         </div>
       </div>
     </td>
