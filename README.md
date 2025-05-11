@@ -99,15 +99,15 @@ class Profile extends Developer implements BlockchainEnthusiast
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/mysql/4479A1" width="65" height="65" alt="MySQL" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/redis/DC382D" width="65" height="65" alt="Redis" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="65" height="65" alt="Redis" />
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/composer/885630" width="65" height="65" alt="Composer" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="65" height="65" alt="Composer" />
       <br>Composer
     </td>
     <td align="center" width="96">
@@ -126,19 +126,19 @@ class Profile extends Developer implements BlockchainEnthusiast
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="65" height="65" alt="JavaScript" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="65" height="65" alt="Tailwind CSS" />
+      <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="65" height="65" alt="Tailwind CSS logo" />
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="65" height="65" alt="Bootstrap" />
+      <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="65" height="65" alt="Bootstrap logo" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/jquery/0769AD" width="65" height="65" alt="jQuery" />
+      <img src="https://cdn.simpleicons.org/jquery/0769AD" width="65" height="65" alt="jQuery logo" />
       <br>jQuery
     </td>
   </tr>
@@ -149,15 +149,15 @@ class Profile extends Developer implements BlockchainEnthusiast
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/github/181717" width="65" height="65" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux/WSL" />
       <br>Linux/WSL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="65" height="65" alt="Ethereum" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" width="65" height="65" alt="Ethereum" />
       <br>Ethereum
     </td>
   </tr>
