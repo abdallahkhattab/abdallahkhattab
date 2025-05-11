@@ -299,17 +299,17 @@ $expertiseAreas = [
         Laravel API Platform
       </h3>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="http://nawasrah.site/ecommerce-api/" target="_blank">
           <img src="https://cdn.dribbble.com/users/846207/screenshots/9221667/media/c2148529ada768e99b525e5a51887b8e.gif" width="100%" alt="Laravel API"/>
         </a>
         <p>
           <strong>Laravel | API Resources | JWT | Redis | Swagger</strong> - Created a scalable API platform with comprehensive documentation, caching, and authentication.
         </p>
         <div align="center">
-          <a href="#" target="_blank">
+          <a href="http://nawasrah.site/ecommerce-api/" target="_blank">
             <img src="https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
           </a>
-          <a href="#" target="_blank">
+          <a href="http://nawasrah.site/ecommerce-api/" target="_blank">
             <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </div>
