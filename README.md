@@ -143,10 +143,7 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.simpleicons.org/jquery/0769AD" width="65" height="65" alt="jQuery logo" />
       <br>jQuery
     </td>
-        <td align="center" width="96">
-  <img src="https://img.icons8.com/ios/452/api.png" width="65" height="65" alt="RESTful API" />
-  <br>RESTful API
-</td>
+
   </tr>
 
   <tr>
@@ -166,7 +163,10 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" width="65" height="65" alt="Ethereum" />
       <br>Ethereum
     </td>
-
+        <td align="center" width="96">
+  <img src="https://img.icons8.com/ios/452/api.png" width="65" height="65" alt="RESTful API" />
+  <br>RESTful API
+</td>
 
   </tr>
 </table>
