@@ -421,7 +421,7 @@ $expertiseAreas = [
 </div>
 
 ---
-
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 </div>
@@ -431,6 +431,12 @@ $expertiseAreas = [
   <br>
   <img src="https://img.shields.io/github/last-commit/abdallahkhattab/abdallahkhattab?style=for-the-badge&color=FF2D20" alt="Last updated" />
 </div>
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdallahkhattab/abdallahkhattab/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdallahkhattab/abdallahkhattab/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/abdallahkhattab/abdallahkhattab/output/github-snake.svg" />
+</picture>
 
 
 <!-- Replace all instances of "yourusername" with your actual GitHub username -->
