@@ -65,7 +65,7 @@ class Profile extends Developer implements BlockchainEnthusiast
   "secondary": {
     "frontend": {
       "languages": ["HTML5", "CSS3", "JavaScript"],
-      "frameworks": ["Tailwind CSS", "Bootstrap"],
+      "frameworks": ["Vue.js","Tailwind CSS", "Bootstrap"],
       "libraries": ["jQuery", "Alpine.js"],
       "techniques": ["AJAX", "Responsive Design"]
     }
@@ -132,6 +132,10 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
       <br>JavaScript
     </td>
+    <td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="65" height="65" alt="Vue.js" />
+  <br>Vue.js
+</td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="65" height="65" alt="Tailwind CSS logo" />
       <br>Tailwind CSS
