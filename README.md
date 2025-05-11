@@ -144,14 +144,15 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="65" height="65" alt="Bootstrap logo" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/jquery/0769AD" width="65" height="65" alt="jQuery logo" />
-      <br>jQuery
-    </td>
+  
 
   </tr>
 
   <tr>
+      <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/jquery/0769AD" width="65" height="65" alt="jQuery logo" />
+      <br>jQuery
+    </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
       <br>Docker
