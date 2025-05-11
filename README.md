@@ -114,6 +114,11 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="96">
+  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" width="65" height="65" alt="RESTful API" />
+  <br>RESTful API
+</td>
+
   </tr>
 
   <tr>
