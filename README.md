@@ -296,14 +296,14 @@ $expertiseAreas = [
     <td width="50%">
       <h3 align="center">
         <img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
-        Laravel API Platform
+        Laravel Ecommerce API
       </h3>
       <div align="center">
         <a href="http://nawasrah.site/ecommerce-api/" target="_blank">
           <img src="https://cdn.dribbble.com/users/846207/screenshots/9221667/media/c2148529ada768e99b525e5a51887b8e.gif" width="100%" alt="Laravel API"/>
         </a>
         <p>
-          <strong>Laravel | API Resources | JWT | Redis | Swagger</strong> - Created a scalable API platform with comprehensive documentation, caching, and authentication.
+          <strong>Laravel | API Resources | JWT | Postman </strong> - Created a scalable Ecommerce API  with comprehensive documentation,and authentication.
         </p>
         <div align="center">
           <a href="http://nawasrah.site/ecommerce-api/" target="_blank">
