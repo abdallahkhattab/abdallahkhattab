@@ -91,7 +91,7 @@ class Profile extends Developer implements BlockchainEnthusiast
 <table border="0">
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="65" height="65" />
       <br>Laravel
     </td>
     <td align="center" width="96">
@@ -158,12 +158,9 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://img.icons8.com/ios-filled/50/FFFFFF/laravel-new.png" alt="Artisan" width="65" height="65" />
       <br>Artisan
     </td>
+ 
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="Hardhat" width="65" height="65" />
-      <br>Hardhat
-    </td>
-    <td align="center" width="96">
-      <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" alt="Ethereum" width="65" height="65" />
       <br>Ethereum
     </td>
   </tr>
@@ -355,17 +352,17 @@ $expertiseAreas = [
   
 <!-- Replace with your actual GitHub username in the URLs -->
   
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&bg_color=1E1E1E&hide_border=true&count_private=true&title_color=FF2D20&icon_color=FF2D20" width="45%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula&background=1E1E1E&hide_border=true&fire=FF2D20&ring=FF2D20&currStreakLabel=FF2D20" width="45%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdallahkhattab&show_icons=true&theme=dracula&bg_color=1E1E1E&hide_border=true&count_private=true&title_color=FF2D20&icon_color=FF2D20" width="45%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahkhattab&theme=dracula&background=1E1E1E&hide_border=true&fire=FF2D20&ring=FF2D20&currStreakLabel=FF2D20" width="45%" alt="GitHub Streak"/>
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&row=1&column=6&margin-w=15&margin-h=15&title_color=FF2D20" alt="GitHub Trophies" width="92%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abdallahkhattab&theme=dracula&row=1&column=6&margin-w=15&margin-h=15&title_color=FF2D20" alt="GitHub Trophies" width="92%"/>
 
 <br>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&bg_color=1E1E1E&hide_border=true&title_color=FF2D20" alt="Most Used Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahkhattab&layout=compact&theme=dracula&bg_color=1E1E1E&hide_border=true&title_color=FF2D20" alt="Most Used Languages" width="45%"/>
 </div>
 
 </div>
@@ -386,10 +383,10 @@ $expertiseAreas = [
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-%E2%86%92%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-%E2%86%92%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdallah-khattab-73081b2b7)
 [![Twitter](https://img.shields.io/badge/-%E2%86%92%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/-%E2%86%92%20Portfolio-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-%E2%86%92%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-%E2%86%92%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boodykhattab97@gmail.com)
 [![Laravel Community](https://img.shields.io/badge/-%E2%86%92%20Laravel%20Community-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laracasts.com/@yourusername)
 
 </div>
