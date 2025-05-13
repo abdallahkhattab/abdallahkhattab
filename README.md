@@ -417,7 +417,7 @@ $expertiseAreas = [
   
 [![LinkedIn](https://img.shields.io/badge/-%E2%86%92%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdallah-khattab-73081b2b7)
 [![Twitter](https://img.shields.io/badge/-%E2%86%92%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-%E2%86%92%20Portfolio-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-%E2%86%92%20Portfolio-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://abdallahkhattab.github.io/my-portfolio)
 [![Email](https://img.shields.io/badge/-%E2%86%92%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boodykhattab97@gmail.com)
 [![Laravel Community](https://img.shields.io/badge/-%E2%86%92%20Laravel%20Community-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laracasts.com/@yourusername)
 
