@@ -279,7 +279,6 @@ $expertiseAreas = [
   <tr>
     <td width="50%">
       <h3 align="center">
-        <img src="https://images.seeklogo.com/logo-png/34/2/medium-logo-png_seeklogo-347160.png"/> 
         Medium Clone
       </h3>
       <div align="center">
