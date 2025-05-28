@@ -277,28 +277,38 @@ $expertiseAreas = [
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">
-        <img src="https://img.icons8.com/color/48/000000/laravel.png"/> 
-        Enterprise CRM System
-      </h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://cdn.dribbble.com/users/1299339/screenshots/14101681/media/1ede59d94e4d80731226ab39c22f8ead.gif" width="100%" alt="Laravel CRM"/>
-        </a>
-        <p>
-          <strong>Laravel | MySQL | Livewire | Tailwind | Alpine.js</strong> - Built a comprehensive CRM with role-based access control, real-time dashboards, and advanced reporting.
-        </p>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
-      </div>
-    </td>
+<td width="50%">
+  <h3 align="center">
+    <img src="https://img.icons8.com/color/48/000000/laravel.png"/> 
+    Medium Clone
+  </h3>
+  <div align="center">
+    <a href="https://nawasrah.site/medium" target="_blank">
+      <img src="https://cdn.dribbble.com/users/1299339/screenshots/14101681/media/1ede59d94e4d80731226ab39c22f8ead.gif" width="100%" alt="Medium Clone"/>
+    </a>
+    <p>
+      <strong>Laravel 12 | MySQL | TailwindCSS | Alpine.js | Pusher</strong> - A Medium-style blogging platform with rich features including:
+      <ul align="left">
+        <li>🔐 User Authentication & Authorization</li>
+        <li>✍️ Post Management (Create, Edit, Delete)</li>
+        <li>💬 Commenting System</li>
+        <li>👏 Clap (Like) Feature</li>
+        <li>🤝 Follow/Unfollow Users</li>
+        <li>🔔 Real-time Notifications with Pusher</li>
+        <li>💬 Live Chat System</li>
+      </ul>
+    </p>
+    <div align="center">
+      <a href="https://nawasrah.site/medium" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+      </a>
+      <a href="https://github.com/abdallahkhattab/laravel-medium-clone" target="_blank">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+</td>
+
     <td width="50%">
       <h3 align="center">
         <img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
