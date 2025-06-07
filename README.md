@@ -88,10 +88,10 @@ class Profile extends Developer implements BlockchainEnthusiast
 ## `$ php artisan render:tech-stack`
 
 <div align="center">
-<table border="0">Add commentMore actions
+<table border="0">
   <tr>
     <td align="center" width="96">
-class Profile extends Developer implements BlockchainEnthusiast
+
       <br>PHP
     </td>
     <td align="center" width="96">
@@ -99,7 +99,6 @@ class Profile extends Developer implements BlockchainEnthusiast
       <br>MySQL
     </td>
     <td align="center" width="96">
- class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
       <br>Git
     </td>
@@ -110,7 +109,6 @@ class Profile extends Developer implements BlockchainEnthusiast
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
- class Profile extends Developer implements BlockchainEnthusiast
       <br>CSS3
     </td>
     <td align="center" width="96">
@@ -160,11 +158,7 @@ class Profile extends Developer implements BlockchainEnthusiast
 </td>
 
   </tr>
-</table>Add comment
-
-   
-      
-
+</table>
 </div>
 <br>
 
