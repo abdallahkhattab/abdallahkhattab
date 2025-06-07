@@ -265,120 +265,90 @@ $expertiseAreas = [
 <br>
 
 ## `$ php artisan showcase:projects`
+---
 
-<div align="center">
-<table border="0" style="border-collapse: collapse; width: 100%; max-width: 800px;">
-  <tr>
-    <td width="50%">
-      <h3 align="center">Instagram Clone SPA</h3>
-      <div align="center">
-        <a href="https://nawasrah.site/instagram/login" target="_blank">
-          <img src="https://cdn.dribbble.com/users/1299339/screenshots/14101681/media/1ede59d94e4d80731226ab39c22f8ead.gif" width="100%" alt="Instagram Clone"/>
-        </a>
-        <strong>Vue.js 3 | Laravel | Inertia.js | WebSockets | SPA</strong> - A full-featured Instagram clone built as a Single Page Application with:
-        <ul align="left">
-          <li>🔐 Complete user authentication system (Register/Login)</li>
-          <li>📸 Full CRUD operations for posts with image uploads</li>
-          <li>⏳ Stories feature with 24-hour auto-deletion</li>
-          <li>💬 Real-time messaging system using Laravel WebSockets</li>
-          <li>🤝 Follow/Unfollow system with user suggestions</li>
-          <li>❤️ Like and comment functionality on posts</li>
-          <li>🔍 Explore page with trending posts</li>
-          <li>🔎 Advanced search for posts and users</li>
-          <li>🔔 Real-time notifications system</li>
-          <li>👤 Profile management and editing</li>
-          <li>⏰ Scheduled commands for automated story cleanup</li>
-        </ul>
-        <div align="center">
-          <a href="https://nawasrah.site/instagram/login" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=vue.js&logoColor=white"/>
-          </a>
-          <a href="https://github.com/abdallahkhattab/laravel-instagram-clone" target="_blank">
-            <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
-      </div>
-    </td>
+### 📸 Instagram Clone SPA  
+> **Vue.js 3 | Laravel | Inertia.js | WebSockets | SPA**  
+A full-featured Instagram clone built as a Single Page Application.
 
-    <td width="50%">
-      <h3 align="center">Medium Clone</h3>
-      <div align="center">
-        <a href="https://nawasrah.site/medium" target="_blank">
-          <img src="https://cdn.dribbble.com/users/5921388/screenshots/15376622/media/47c09313a5fded3c0c0e83f3a5a43d70.gif" width="100%" alt="Medium Clone"/>
-        </a>
-        <strong>Laravel 12 | MySQL | TailwindCSS | Alpine.js | Pusher | Postman</strong> - A Medium-style blogging platform with rich features including:
-        <ul align="left">
-          <li>🔐 User Authentication & Authorization</li>
-          <li>✍️ Post Management (Create, Edit, Delete)</li>
-          <li>💬 Commenting System</li>
-          <li>👏 Clap (Like) Feature</li>
-          <li>🤝 Follow/Unfollow Users</li>
-          <li>🔔 Real-time Notifications with Pusher</li>
-          <li>💬 Live Chat System</li>
-          <li>🛠️ API Testing with Postman</li>
-        </ul>
-        <div align="center">
-          <a href="https://nawasrah.site/medium" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-          </a>
-          <a href="https://github.com/abdallahkhattab/laravel-medium-clone" target="_blank">
-            <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
-      </div>
-    </td>
-  </tr>
+[![Instagram Clone](https://cdn.dribbble.com/users/1299339/screenshots/14101681/media/1ede59d94e4d80731226ab39c22f8ead.gif)](https://nawasrah.site/instagram/login)
 
-  <tr>
-    <td width="50%">
-      <h3 align="center">
-        <img src="https://cdn.simpleicons.org/shopify/7AB55C" width="32" height="32" alt="Shopify Icon"/> E-commerce Platform
-      </h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/72a69c11e08030a4c3943a9198c0132a.gif" width="100%" alt="E-commerce"/>
-        </a>
-        <p>
-          <strong>Laravel | MySQL | jQuery | AJAX | Bootstrap</strong> - Developed a full-featured e-commerce platform with payment gateway integration and inventory management.
-        </p>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
-      </div>
-    </td>
-    
-    <td width="50%">
-      <h3 align="center">
-        <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="32" height="32" alt="Ethereum Icon"/> Laravel Web3 Bridge
-      </h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://cdn.dribbble.com/users/383277/screenshots/18236683/media/f5fcbdcff2aae6c3db3a9dd53c0f7171.gif" width="100%" alt="Web3 Bridge"/>
-        </a>
-        <p>
-          <strong>Laravel | Solidity | Web3.js | Hardhat | Sepolia ETH</strong> - Created a bridge application connecting Laravel backend with Ethereum smart contracts.
-        </p>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Deployed_via-SSH-4EAA25?style=for-the-badge&logo=openssh&logoColor=white" alt="SSH Deployment Badge"/>
-          </a>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-</div>
+#### 🔧 Features:
+- 🔐 Complete user authentication (Register/Login)
+- 📸 Full CRUD for posts with image upload
+- ⏳ 24-hour auto-deleting Stories
+- 💬 Real-time messaging with Laravel WebSockets
+- 🤝 Follow/Unfollow system with suggestions
+- ❤️ Like & comment on posts
+- 🔍 Explore page + trending posts
+- 🔎 Advanced search (posts & users)
+- 🔔 Real-time notifications
+- 👤 Profile editing
+- ⏰ Scheduled commands for story cleanup
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=vue.js&logoColor=white)](https://nawasrah.site/instagram/login)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahkhattab/laravel-instagram-clone)
+
+---
+
+### ✍️ Medium Clone  
+> **Laravel 12 | MySQL | TailwindCSS | Alpine.js | Pusher | Postman**  
+A Medium-style blogging platform with a clean UI and powerful backend.
+
+[![Medium Clone](https://cdn.dribbble.com/users/5921388/screenshots/15376622/media/47c09313a5fded3c0c0e83f3a5a43d70.gif)](https://nawasrah.site/medium)
+
+#### 🔧 Features:
+- 🔐 User Authentication & Roles
+- ✍️ Post creation/editing/deletion
+- 💬 Commenting system
+- 👏 Claps (like feature)
+- 🤝 Follow/Unfollow authors
+- 🔔 Real-time notifications (Pusher)
+- 💬 Live chat between users
+- 🔁 RESTful API tested with Postman
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://nawasrah.site/medium)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahkhattab/laravel-medium-clone)
+
+---
+
+### 🛒 E-Commerce Platform  
+> **Laravel | MySQL | jQuery | AJAX | Bootstrap**  
+A complete e-commerce platform with cart, inventory, and payments.
+
+[![E-commerce Platform](https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/72a69c11e08030a4c3943a9198c0132a.gif)](#)
+
+#### 🔧 Features:
+- 🛍️ Product management with stock control
+- 💳 Integrated payment gateway
+- 🛒 Shopping cart, wishlist, checkout
+- 📦 Order management & admin dashboard
+- 📈 Sales tracking & customer analytics
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+---
+
+### ⛓️ Laravel Web3 Bridge  
+> **Laravel | Solidity | Web3.js | Hardhat | Sepolia ETH**  
+Bridge between Laravel backend and Ethereum smart contracts.
+
+[![Web3 Bridge](https://cdn.dribbble.com/users/383277/screenshots/18236683/media/f5fcbdcff2aae6c3db3a9dd53c0f7171.gif)](#)
+
+#### 🔧 Features:
+- 🔗 Smart contract integration (Solidity)
+- 📡 Interacts with Sepolia testnet
+- 🛠️ Compiled via Hardhat
+- 💬 Laravel-Web3 communication using Web3.js
+- 🚀 Deployed via SSH on Linux server
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Deployed via SSH](https://img.shields.io/badge/Deployed_via-SSH-4EAA25?style=for-the-badge&logo=openssh&logoColor=white)](#)
+
+---
+
 <br>
 
 ## `$ php artisan github:stats`
