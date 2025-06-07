@@ -87,7 +87,7 @@ class Profile extends Developer implements BlockchainEnthusiast
 
 ## `$ php artisan render:tech-stack`
 <div align="center">
-<table border="0" style="border-collapse: collapse; width: 100%; max-width: 600px;">
+<table border="0" style="border-collapse: collapse; width: 100%; max-width: 400px;">
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65" alt="PHP" />
@@ -101,6 +101,8 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
       <br>Git
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
       <br>HTML5
@@ -127,6 +129,8 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/jquery/0769AD" width="65" height="65" alt="jQuery" />
       <br>jQuery
@@ -153,12 +157,10 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://img.icons8.com/ios/452/api.png" width="65" height="65" alt="RESTful API" />
       <br>RESTful API
     </td>
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
   </tr>
 </table>
 </div>
+<br>
 <br>
 
 ## `$ vim laravel_expertise.blade.php` 
