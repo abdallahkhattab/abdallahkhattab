@@ -88,86 +88,70 @@ class Profile extends Developer implements BlockchainEnthusiast
 ## `$ php artisan render:tech-stack`
 
 <div align="center">
-<table border="0">
+<div align="center">
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65" height="65" alt="Laravel" />
-      <br>Laravel
+    <td width="50%">
+      <h3 align="center">
+        Medium Clone
+      </h3>
+      <div align="center">
+        <a href="https://nawasrah.site/medium" target="_blank">
+          <img src="https://cdn.dribbble.com/users/1299339/screenshots/14101681/media/1ede59d94e4d80731226ab39c22f8ead.gif" width="100%" alt="Medium Clone"/>
+        </a>
+        <br><br>
+        <strong>Laravel 12 | MySQL | TailwindCSS | Alpine.js | Pusher</strong>
+        <br><br>
+        A Medium-style blogging platform with rich features including:
+        <ul align="left">
+          <li>🔐 User Authentication & Authorization</li>
+          <li>✍️ Post Management (Create, Edit, Delete)</li>
+          <li>💬 Commenting System</li>
+          <li>👏 Clap (Like) Feature</li>
+          <li>🤝 Follow/Unfollow Users</li>
+          <li>🔔 Real-time Notifications with Pusher</li>
+          <li>💬 Live Chat System</li>
+        </ul>
+        <div align="center">
+          <a href="https://nawasrah.site/medium" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+          </a>
+          <a href="https://github.com/abdallahkhattab/laravel-medium-clone" target="_blank">
+            <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="65" height="65" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="65" height="65" alt="Composer" />
-      <br>Composer
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="65" height="65" alt="Vue.js" />
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="65" height="65" alt="jQuery" />
-      <br>jQuery
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux/WSL" />
-      <br>Linux/WSL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="65" height="65" alt="Ethereum" />
-      <br>Ethereum
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" height="65" alt="RESTful API" />
-      <br>RESTful API
+    <td width="50%">
+      <h3 align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/ethereum.png" alt="Ethereum Icon"/> 
+        Laravel Web3 Bridge
+      </h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://cdn.dribbble.com/users/383277/screenshots/18236683/media/f5fcbdcff2aae6c3db3a9dd53c0f7171.gif" width="100%" alt="Web3 Bridge"/>
+        </a>
+        <br><br>
+        <strong>Laravel | Solidity | Web3.js | Hardhat | Sepolia ETH</strong>
+        <br><br>
+        Created a bridge application connecting Laravel backend with Ethereum smart contracts.
+        <br><br>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Deployed_via-SSH-4EAA25?style=for-the-badge&logo=openssh&logoColor=white" alt="SSH Deployment Badge"/>
+          </a>
+        </div>
+      </div>
     </td>
   </tr>
 </table>
+</div>
 </div>
 <br>
 
