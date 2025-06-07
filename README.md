@@ -87,11 +87,13 @@ class Profile extends Developer implements BlockchainEnthusiast
 
 ## `$ php artisan render:tech-stack`
 
-## `$ php artisan render:tech-stack`
-
 <div align="center">
-<table border="0" style="border-collapse: collapse; width: 100%; max-width: 500px;">
+<table border="0" style="border-collapse: collapse; width: 100%; max-width: 600px;">
   <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="65" height="65" alt="Laravel" />
+      <br>Laravel
+    </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65" alt="PHP" />
       <br>PHP
@@ -126,12 +128,12 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="65" height="65" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/jquery/0769AD" width="65" height="65" alt="jQuery" />
       <br>jQuery
@@ -144,8 +146,6 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>GitHub
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux/WSL" />
       <br>Linux/WSL
@@ -154,15 +154,19 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="65" height="65" alt="Ethereum" />
       <br>Ethereum
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://img.icons8.com/ios/452/api.png" width="65" height="65" alt="RESTful API" />
       <br>RESTful API
     </td>
     <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
   </tr>
 </table>
 </div>
-<br>
 <br>
 
 ## `$ vim laravel_expertise.blade.php` 
