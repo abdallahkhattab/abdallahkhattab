@@ -88,7 +88,6 @@ class Profile extends Developer implements BlockchainEnthusiast
 ## `$ php artisan render:tech-stack`
 
 <div align="center">
-
 <table border="0">
   <tr>
     <td align="center" width="96">
@@ -100,7 +99,7 @@ class Profile extends Developer implements BlockchainEnthusiast
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
@@ -115,10 +114,7 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
       <br>Git
     </td>
-
-
   </tr>
-
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
@@ -129,28 +125,25 @@ class Profile extends Developer implements BlockchainEnthusiast
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="65" height="65" alt="Vue.js" />
-  <br>Vue.js
-</td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="65" height="65" alt="Vue.js" />
+      <br>Vue.js
+    </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="65" height="65" alt="Tailwind CSS logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="65" height="65" alt="Bootstrap logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-  
-
   </tr>
-
   <tr>
-      <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/jquery/0769AD" width="65" height="65" alt="jQuery logo" />
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="65" height="65" alt="jQuery" />
       <br>jQuery
     </td>
     <td align="center" width="96">
@@ -158,7 +151,7 @@ class Profile extends Developer implements BlockchainEnthusiast
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
@@ -166,20 +159,16 @@ class Profile extends Developer implements BlockchainEnthusiast
       <br>Linux/WSL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" width="65" height="65" alt="Ethereum" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="65" height="65" alt="Ethereum" />
       <br>Ethereum
     </td>
-        <td align="center" width="96">
-  <img src="https://img.icons8.com/ios/452/api.png" width="65" height="65" alt="RESTful API" />
-  <br>RESTful API
-</td>
-
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" height="65" alt="RESTful API" />
+      <br>RESTful API
+    </td>
   </tr>
 </table>
-
-
 </div>
-
 <br>
 
 ## `$ vim laravel_expertise.blade.php` 
