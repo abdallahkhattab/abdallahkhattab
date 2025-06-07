@@ -88,70 +88,83 @@ class Profile extends Developer implements BlockchainEnthusiast
 ## `$ php artisan render:tech-stack`
 
 <div align="center">
-<div align="center">
-<table>
+<table border="0">Add commentMore actions
   <tr>
-    <td width="50%">
-      <h3 align="center">
-        Medium Clone
-      </h3>
-      <div align="center">
-        <a href="https://nawasrah.site/medium" target="_blank">
-          <img src="https://cdn.dribbble.com/users/1299339/screenshots/14101681/media/1ede59d94e4d80731226ab39c22f8ead.gif" width="100%" alt="Medium Clone"/>
-        </a>
-        <br><br>
-        <strong>Laravel 12 | MySQL | TailwindCSS | Alpine.js | Pusher</strong>
-        <br><br>
-        A Medium-style blogging platform with rich features including:
-        <ul align="left">
-          <li>🔐 User Authentication & Authorization</li>
-          <li>✍️ Post Management (Create, Edit, Delete)</li>
-          <li>💬 Commenting System</li>
-          <li>👏 Clap (Like) Feature</li>
-          <li>🤝 Follow/Unfollow Users</li>
-          <li>🔔 Real-time Notifications with Pusher</li>
-          <li>💬 Live Chat System</li>
-        </ul>
-        <div align="center">
-          <a href="https://nawasrah.site/medium" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-          </a>
-          <a href="https://github.com/abdallahkhattab/laravel-medium-clone" target="_blank">
-            <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
-      </div>
+    <td align="center" width="96">
+@@ -100,7 +99,7 @@ class Profile extends Developer implements BlockchainEnthusiast
+      <br>PHP
     </td>
-    <td width="50%">
-      <h3 align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/ethereum.png" alt="Ethereum Icon"/> 
-        Laravel Web3 Bridge
-      </h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://cdn.dribbble.com/users/383277/screenshots/18236683/media/f5fcbdcff2aae6c3db3a9dd53c0f7171.gif" width="100%" alt="Web3 Bridge"/>
-        </a>
-        <br><br>
-        <strong>Laravel | Solidity | Web3.js | Hardhat | Sepolia ETH</strong>
-        <br><br>
-        Created a bridge application connecting Laravel backend with Ethereum smart contracts.
-        <br><br>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Deployed_via-SSH-4EAA25?style=for-the-badge&logo=openssh&logoColor=white" alt="SSH Deployment Badge"/>
-          </a>
-        </div>
-      </div>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+      <br>MySQL
     </td>
+    <td align="center" width="96">
+@@ -115,10 +114,7 @@ class Profile extends Developer implements BlockchainEnthusiast
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+
+
   </tr>
-</table>
-</div>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
+@@ -129,57 +125,50 @@ class Profile extends Developer implements BlockchainEnthusiast
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="65" height="65" alt="Vue.js" />
+  <br>Vue.js
+</td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="65" height="65" alt="Tailwind CSS logo" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="65" height="65" alt="Bootstrap logo" />
+      <br>Bootstrap
+    </td>
+  
+
+  </tr>
+
+  <tr>
+      <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/jquery/0769AD" width="65" height="65" alt="jQuery logo" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux/WSL" />
+      <br>Linux/WSL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" width="65" height="65" alt="Ethereum" />
+      <br>Ethereum
+    </td>
+        <td align="center" width="96">
+  <img src="https://img.icons8.com/ios/452/api.png" width="65" height="65" alt="RESTful API" />
+  <br>RESTful API
+</td>
+
+  </tr>
+</table>Add comment
+
+   
+      
+
 </div>
 <br>
 
