@@ -91,7 +91,7 @@ class Profile extends Developer implements BlockchainEnthusiast
 <table border="0">Add commentMore actions
   <tr>
     <td align="center" width="96">
-@@ -100,7 +99,7 @@ class Profile extends Developer implements BlockchainEnthusiast
+class Profile extends Developer implements BlockchainEnthusiast
       <br>PHP
     </td>
     <td align="center" width="96">
@@ -99,7 +99,7 @@ class Profile extends Developer implements BlockchainEnthusiast
       <br>MySQL
     </td>
     <td align="center" width="96">
-@@ -115,10 +114,7 @@ class Profile extends Developer implements BlockchainEnthusiast
+ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
       <br>Git
     </td>
@@ -110,7 +110,7 @@ class Profile extends Developer implements BlockchainEnthusiast
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
-@@ -129,57 +125,50 @@ class Profile extends Developer implements BlockchainEnthusiast
+ class Profile extends Developer implements BlockchainEnthusiast
       <br>CSS3
     </td>
     <td align="center" width="96">
