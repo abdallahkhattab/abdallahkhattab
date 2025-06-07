@@ -267,13 +267,10 @@ $expertiseAreas = [
 ## `$ php artisan showcase:projects`
 
 <div align="center">
-
-<table>
+<table border="0" style="border-collapse: collapse; width: 100%; max-width: 800px;">
   <tr>
     <td width="50%">
-      <h3 align="center">
-        Instagram Clone SPA
-      </h3>
+      <h3 align="center">Instagram Clone SPA</h3>
       <div align="center">
         <a href="https://nawasrah.site/instagram/login" target="_blank">
           <img src="https://cdn.dribbble.com/users/1299339/screenshots/14101681/media/1ede59d94e4d80731226ab39c22f8ead.gif" width="100%" alt="Instagram Clone"/>
@@ -304,14 +301,12 @@ $expertiseAreas = [
     </td>
 
     <td width="50%">
-      <h3 align="center">
-        Medium Clone
-      </h3>
+      <h3 align="center">Medium Clone</h3>
       <div align="center">
         <a href="https://nawasrah.site/medium" target="_blank">
-          <img src="https://cdn.dribbble.com/users/1299339/screenshots/14101681/media/1ede59d94e4d80731226ab39c22f8ead.gif" width="100%" alt="Medium Clone"/>
+          <img src="https://cdn.dribbble.com/users/5921388/screenshots/15376622/media/47c09313a5fded3c0c0e83f3a5a43d70.gif" width="100%" alt="Medium Clone"/>
         </a>
-        <strong>Laravel 12 | MySQL | TailwindCSS | Alpine.js | Pusher</strong> - A Medium-style blogging platform with rich features including:
+        <strong>Laravel 12 | MySQL | TailwindCSS | Alpine.js | Pusher | Postman</strong> - A Medium-style blogging platform with rich features including:
         <ul align="left">
           <li>🔐 User Authentication & Authorization</li>
           <li>✍️ Post Management (Create, Edit, Delete)</li>
@@ -320,6 +315,7 @@ $expertiseAreas = [
           <li>🤝 Follow/Unfollow Users</li>
           <li>🔔 Real-time Notifications with Pusher</li>
           <li>💬 Live Chat System</li>
+          <li>🛠️ API Testing with Postman</li>
         </ul>
         <div align="center">
           <a href="https://nawasrah.site/medium" target="_blank">
@@ -336,8 +332,7 @@ $expertiseAreas = [
   <tr>
     <td width="50%">
       <h3 align="center">
-        <img src="https://img.icons8.com/color/48/000000/shopify.png" alt="Shopify Icon"/>
-        E-commerce Platform
+        <img src="https://cdn.simpleicons.org/shopify/7AB55C" width="32" height="32" alt="Shopify Icon"/> E-commerce Platform
       </h3>
       <div align="center">
         <a href="#" target="_blank">
@@ -359,8 +354,7 @@ $expertiseAreas = [
     
     <td width="50%">
       <h3 align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/ethereum.png" alt="Ethereum Icon"/> 
-        Laravel Web3 Bridge
+        <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="32" height="32" alt="Ethereum Icon"/> Laravel Web3 Bridge
       </h3>
       <div align="center">
         <a href="#" target="_blank">
@@ -384,10 +378,7 @@ $expertiseAreas = [
     </td>
   </tr>
 </table>
-
-
 </div>
-
 <br>
 
 ## `$ php artisan github:stats`
