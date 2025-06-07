@@ -160,13 +160,19 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://img.icons8.com/ios/452/api.png" width="65" height="65" alt="RESTful API" />
       <br>RESTful API
     </td>
-    <td align="center" width="96"></td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" width="65" height="65" alt="Postman" />
+      <br>Postman
+    </td>
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
   </tr>
 </table>
 </div>
+<br>
+
+
 <br>
 
 ## `$ vim laravel_expertise.blade.php` 
