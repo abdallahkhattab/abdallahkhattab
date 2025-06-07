@@ -87,8 +87,10 @@ class Profile extends Developer implements BlockchainEnthusiast
 
 ## `$ php artisan render:tech-stack`
 
+## `$ php artisan render:tech-stack`
+
 <div align="center">
-<table border="0" style="border-collapse: collapse; width: 100%; max-width: 600px;">
+<table border="0" style="border-collapse: collapse; width: 100%; max-width: 500px;">
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65" alt="PHP" />
@@ -106,6 +108,8 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
       <br>CSS3
@@ -114,8 +118,6 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
       <br>JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="65" height="65" alt="Vue.js" />
       <br>Vue.js
@@ -124,6 +126,8 @@ class Profile extends Developer implements BlockchainEnthusiast
       <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="65" height="65" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
@@ -155,11 +159,10 @@ class Profile extends Developer implements BlockchainEnthusiast
       <br>RESTful API
     </td>
     <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
   </tr>
 </table>
 </div>
+<br>
 <br>
 
 ## `$ vim laravel_expertise.blade.php` 
