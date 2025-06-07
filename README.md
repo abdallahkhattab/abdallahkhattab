@@ -91,7 +91,7 @@ class Profile extends Developer implements BlockchainEnthusiast
 <table border="0" style="border-collapse: collapse; width: 100%; max-width: 600px;">
   <tr>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" width="65" height="65" alt="Laravel" />
+      <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="65" height="65" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
