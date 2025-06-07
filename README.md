@@ -278,6 +278,39 @@ $expertiseAreas = [
 <table>
   <tr>
     <td width="50%">
+  <h3 align="center">
+    Instagram Clone SPA
+  </h3>
+  <div align="center">
+    <a href="https://nawasrah.site/instagram/login" target="_blank">
+      <img src="https://cdn.dribbble.com/users/1299339/screenshots/14101681/media/1ede59d94e4d80731226ab39c22f8ead.gif" width="100%" alt="Instagram Clone"/>
+    </a>
+    <strong>Vue.js 3 | Laravel | Inertia.js | WebSockets | SPA</strong> - A full-featured Instagram clone built as a Single Page Application with:
+    <ul align="left">
+      <li>🔐 Complete user authentication system (Register/Login)</li>
+      <li>📸 Full CRUD operations for posts with image uploads</li>
+      <li>⏳ Stories feature with 24-hour auto-deletion</li>
+      <li>💬 Real-time messaging system using Laravel WebSockets</li>
+      <li>🤝 Follow/Unfollow system with user suggestions</li>
+      <li>❤️ Like and comment functionality on posts</li>
+      <li>🔍 Explore page with trending posts</li>
+      <li>🔎 Advanced search for posts and users</li>
+      <li>🔔 Real-time notifications system</li>
+      <li>👤 Profile management and editing</li>
+      <li>⏰ Scheduled commands for automated story cleanup</li>
+    </ul>
+    <div align="center">
+      <a href="https://nawasrah.site/instagram/login" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=vue.js&logoColor=white"/>
+      </a>
+      <a href="https://github.com/abdallahkhattab/laravel-instagram-clone" target="_blank">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+</td>
+
+    <td width="50%">
       <h3 align="center">
         Medium Clone
       </h3>
