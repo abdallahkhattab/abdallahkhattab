@@ -290,6 +290,26 @@ A full-featured Instagram clone built as a Single Page Application.
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahkhattab/laravel-instagram-clone)
 
 ---
+### 🖼️ NFT Marketplace  
+> **Laravel | Solidity | Web3.js | MetaMask | Hardhat | Alchemy | Pinata**  
+A Laravel-based NFT marketplace integrated with smart contracts for minting and trading digital assets.
+
+[![NFT Marketplace](https://cdn.dribbble.com/users/1973718/screenshots/16382668/media/8837b6099cfd622bb1cc78a16535ceff.gif)](https://sepolia.etherscan.io/address/0x636937bac8A853767CF2422D4eDcCd2CC9e190d0#code)
+
+#### 🔧 Features:
+- 🖼️ Mint NFTs with IPFS-hosted media via **Pinata**
+- 🪙 Trade and sell digital assets on-chain
+- 🔐 MetaMask integration for secure user auth
+- 🔗 Smart contract written in **Solidity** and deployed on **Sepolia Testnet**
+- ⚙️ Smart contract compiled/tested using **Hardhat**
+- 🌐 Blockchain communication via **Web3.js**
+- ⚡ Powered by **Alchemy** for reliable blockchain access
+- 📄 [Smart Contract on Etherscan](https://sepolia.etherscan.io/address/0x636937bac8A853767CF2422D4eDcCd2CC9e190d0#code)
+
+[![Smart Contract](https://img.shields.io/badge/VIEW_CONTRACT-636937?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x636937bac8A853767CF2422D4eDcCd2CC9e190d0#code)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+---
 
 ### ✍️ Medium Clone  
 > **Laravel 12 | MySQL | TailwindCSS | Alpine.js | Pusher | Postman**  
@@ -327,25 +347,6 @@ A complete e-commerce platform with cart, inventory, and payments.
 
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
----
-
-### ⛓️ Laravel Web3 Bridge  
-> **Laravel | Solidity | Web3.js | Hardhat | Sepolia ETH**  
-Bridge between Laravel backend and Ethereum smart contracts.
-
-[![Web3 Bridge](https://cdn.dribbble.com/users/383277/screenshots/18236683/media/f5fcbdcff2aae6c3db3a9dd53c0f7171.gif)](#)
-
-#### 🔧 Features:
-- 🔗 Smart contract integration (Solidity)
-- 📡 Interacts with Sepolia testnet
-- 🛠️ Compiled via Hardhat
-- 💬 Laravel-Web3 communication using Web3.js
-- 🚀 Deployed via SSH on Linux server
-
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Deployed via SSH](https://img.shields.io/badge/Deployed_via-SSH-4EAA25?style=for-the-badge&logo=openssh&logoColor=white)](#)
 
 ---
 
