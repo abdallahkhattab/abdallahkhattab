@@ -265,6 +265,8 @@ $expertiseAreas = [
 <br>
 
 ## `$ php artisan showcase:projects`
+### My most advanced Laravel & Vue.js builds
+
 ---
 
 <table>
@@ -317,9 +319,9 @@ A Laravel-based NFT marketplace integrated with smart contracts.
 
 </td>
   </tr>
-  <tr>
-    <td>
-      
+<tr>
+  <td>
+    
 ### ✍️ Medium Clone  
 > **Laravel 12 | MySQL | TailwindCSS | Alpine.js | Pusher | Postman**  
 A Medium-style blogging platform with clean UI & backend.
