@@ -342,7 +342,7 @@ A Medium-style blogging platform with clean UI & backend.
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahkhattab/laravel-medium-clone)
 
 </td>
-<td>
+<td valign="top">
 
 ### 🧠 MoodSync API  
 > **Laravel 12 | Sanctum | MySQL | TailwindCSS | Scribe | Postman**  
