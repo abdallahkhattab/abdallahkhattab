@@ -332,6 +332,30 @@ A Medium-style blogging platform with a clean UI and powerful backend.
 
 ---
 
+### 🧠 MoodSync API  
+> **Laravel 12 | Sanctum | MySQL | TailwindCSS | Scribe | Postman**  
+A mental health tracking API that allows users to log moods and professionals to monitor crises, with a secure role-based system and rich API documentation.
+
+[![MoodSync](https://cdn.dribbble.com/users/5921388/screenshots/15376622/media/47c09313a5fded3c0c0e83f3a5a43d70.gif)](https://nawasrah.site/moodsync)
+
+#### 🔧 Features:
+- 🔐 User Authentication with Laravel Sanctum  
+- 📆 Mood tracking with daily entries, intensity, and notes  
+- 🚨 Crisis detection system based on inactivity and keyword analysis  
+- 🧑‍⚕️ Role-based access (Admin, Professional, User) using Spatie  
+- 📊 Admin dashboard with mood analytics and user oversight  
+- ✉️ Admin notes for professional mental health tracking  
+- 🧠 Mood-based personalized recommendations  
+- 📘 Interactive API documentation with Scribe  
+- 🛡️ Mood entry validation to prevent duplicates  
+- 🔁 RESTful API tested with Postman
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://nawasrah.site/moodsync)  
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahkhattab/laravel-moodsync-api)
+
+---
+
+
 ### 🛒 E-Commerce Platform  
 > **Laravel | MySQL | jQuery | AJAX | Bootstrap**  
 A complete e-commerce platform with cart, inventory, and payments.
