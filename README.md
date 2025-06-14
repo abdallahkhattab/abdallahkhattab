@@ -271,8 +271,8 @@ $expertiseAreas = [
 
 <table>
   <tr>
-    <td valign="top">
-
+  <td valign="top">
+    
 ### 📸 Instagram Clone SPA  
 > **Vue.js 3 | Laravel | Inertia.js | WebSockets | SPA**  
 A full-featured Instagram clone built as a Single Page Application.
@@ -296,8 +296,8 @@ A full-featured Instagram clone built as a Single Page Application.
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahkhattab/laravel-instagram-clone)
 
 </td>
-<td>
-
+<td valign="top">
+  
 ### 🖼️ NFT Marketplace  
 > **Laravel | Solidity | Web3.js | MetaMask | Hardhat | Alchemy | Pinata**  
 A Laravel-based NFT marketplace integrated with smart contracts.
