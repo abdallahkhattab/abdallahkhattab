@@ -265,6 +265,7 @@ $expertiseAreas = [
 <br>
 
 ## `$ php artisan showcase:projects`
+### My most advanced Laravel & Vue.js builds
 ---
 
 <table>
