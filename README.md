@@ -271,7 +271,7 @@ $expertiseAreas = [
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
 
 ### 📸 Instagram Clone SPA  
 > **Vue.js 3 | Laravel | Inertia.js | WebSockets | SPA**  
