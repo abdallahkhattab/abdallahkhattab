@@ -320,7 +320,7 @@ A Laravel-based NFT marketplace integrated with smart contracts.
 </td>
   </tr>
 <tr>
-  <td>
+  <td valign="top">
     
 ### ✍️ Medium Clone  
 > **Laravel 12 | MySQL | TailwindCSS | Alpine.js | Pusher | Postman**  
