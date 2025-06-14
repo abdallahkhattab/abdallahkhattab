@@ -267,6 +267,10 @@ $expertiseAreas = [
 ## `$ php artisan showcase:projects`
 ---
 
+<table>
+  <tr>
+    <td>
+
 ### 📸 Instagram Clone SPA  
 > **Vue.js 3 | Laravel | Inertia.js | WebSockets | SPA**  
 A full-featured Instagram clone built as a Single Page Application.
@@ -286,13 +290,15 @@ A full-featured Instagram clone built as a Single Page Application.
 - 👤 Profile editing
 - ⏰ Scheduled commands for story cleanup
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=vue.js&logoColor=white)](https://nawasrah.site/instagram/login)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=vue.js&logoColor=white)](https://nawasrah.site/instagram/login)  
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahkhattab/laravel-instagram-clone)
 
----
+</td>
+<td>
+
 ### 🖼️ NFT Marketplace  
 > **Laravel | Solidity | Web3.js | MetaMask | Hardhat | Alchemy | Pinata**  
-A Laravel-based NFT marketplace integrated with smart contracts for minting and trading digital assets.
+A Laravel-based NFT marketplace integrated with smart contracts.
 
 [![NFT Marketplace](https://cdn.dribbble.com/users/1973718/screenshots/16382668/media/8837b6099cfd622bb1cc78a16535ceff.gif)](https://sepolia.etherscan.io/address/0x636937bac8A853767CF2422D4eDcCd2CC9e190d0#code)
 
@@ -306,14 +312,17 @@ A Laravel-based NFT marketplace integrated with smart contracts for minting and 
 - ⚡ Powered by **Alchemy** for reliable blockchain access
 - 📄 [Smart Contract on Etherscan](https://sepolia.etherscan.io/address/0x636937bac8A853767CF2422D4eDcCd2CC9e190d0#code)
 
-[![Smart Contract](https://img.shields.io/badge/VIEW_CONTRACT-636937?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x636937bac8A853767CF2422D4eDcCd2CC9e190d0#code)
+[![Smart Contract](https://img.shields.io/badge/VIEW_CONTRACT-636937?style=for-the-badge&logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/address/0x636937bac8A853767CF2422D4eDcCd2CC9e190d0#code)  
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
----
+</td>
+  </tr>
+  <tr>
+    <td>
 
 ### ✍️ Medium Clone  
 > **Laravel 12 | MySQL | TailwindCSS | Alpine.js | Pusher | Postman**  
-A Medium-style blogging platform with a clean UI and powerful backend.
+A Medium-style blogging platform with clean UI & backend.
 
 [![Medium Clone](https://cdn.dribbble.com/users/5921388/screenshots/15376622/media/47c09313a5fded3c0c0e83f3a5a43d70.gif)](https://nawasrah.site/medium)
 
@@ -327,14 +336,15 @@ A Medium-style blogging platform with a clean UI and powerful backend.
 - 💬 Live chat between users
 - 🔁 RESTful API tested with Postman
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://nawasrah.site/medium)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://nawasrah.site/medium)  
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahkhattab/laravel-medium-clone)
 
----
+</td>
+<td>
 
 ### 🧠 MoodSync API  
 > **Laravel 12 | Sanctum | MySQL | TailwindCSS | Scribe | Postman**  
-A mental health tracking API that allows users to log moods and professionals to monitor crises, with a secure role-based system and rich API documentation.
+Mental health tracking API with role-based access & docs.
 
 [![MoodSync](https://cdn.dribbble.com/users/5921388/screenshots/15376622/media/47c09313a5fded3c0c0e83f3a5a43d70.gif)](https://nawasrah.site/moodsync)
 
@@ -353,27 +363,9 @@ A mental health tracking API that allows users to log moods and professionals to
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://nawasrah.site/moodsync)  
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahkhattab/laravel-moodsync-api)
 
----
-
-
-### 🛒 E-Commerce Platform  
-> **Laravel | MySQL | jQuery | AJAX | Bootstrap**  
-A complete e-commerce platform with cart, inventory, and payments.
-
-[![E-commerce Platform](https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/72a69c11e08030a4c3943a9198c0132a.gif)](#)
-
-#### 🔧 Features:
-- 🛍️ Product management with stock control
-- 💳 Integrated payment gateway
-- 🛒 Shopping cart, wishlist, checkout
-- 📦 Order management & admin dashboard
-- 📈 Sales tracking & customer analytics
-
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
----
-
+</td>
+  </tr>
+</table>
 <br>
 
 ## `$ php artisan github:stats`
